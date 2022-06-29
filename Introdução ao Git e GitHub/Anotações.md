@@ -3,4 +3,4 @@
 https://git-scm.com/downloads
 
 ### Resolução
- - Git Bash é um terminal extendido para otimizar o uso do Git.
+ - Git Bash é um terminal estendido para otimizar o uso do Git.
