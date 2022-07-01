@@ -30,3 +30,19 @@ A tag head contém elementos que serão lidos pelo navegador, como os metadados 
 ##### < body >
 
 E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
+
+### Tag de link
+A tag **< a hfer="LINK" >** é usada para aderir um link dentro da pagina, no entanto o link substitui a pagina aberta e  para mudar esse comportamento é necessario usar o atributo **(target="_Blank")** .
+ Se o Link for direcionado a um email é necessario usar o prefixo **(mailto:)**, ficando assim:
+ **< a href="mailto:Exemplo@email.com" >**
+
+ ### Tag de imagens
+Para adicionar uma imagem ao codigo html é necessario utilizar a tag: 
+**< img scr=Caminho da foto >**
+Caso queira adicionar descrição a imagem utiliza-se o atributo alt, ficando assim:
+**< img alt="descrição" >**
+
+### Tag de lista
+A tag **< ul >** é uma lista onde a ordem dos intens não são tão importantes, diferente da tag **< ol >** pois nela a um representação com letras ou numeros e **< li >** seria um item dessa lista.
+
+
