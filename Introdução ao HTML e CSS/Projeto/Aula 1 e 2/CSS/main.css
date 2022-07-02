@@ -37,14 +37,14 @@ body {
 }
 
 .card-wrapper::before {
-content: '';
-position: absolute;
-height: 100px;
-width: 100PX;
-display: block;
-border: 1PX solid wheat;
-opacity: 0;
-transition: 00.3s;
+    content: '';
+    position: absolute;
+    height: 100px;
+    width: 100PX;
+    display: block;
+    border: 1PX solid wheat;
+    opacity: 0;
+    transition: 00.3s;
 }
 
 .card-wrapper h2 {
